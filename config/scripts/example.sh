@@ -10,3 +10,4 @@ echo 'This is an example shell script'
 echo 'Scripts here will run during build if specified in recipe.yml'
 
 flatpak install flathub edu.mit.Scratch
+flatpak install flathub com.valvesoftware.Steam
